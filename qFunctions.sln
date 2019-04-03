@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "qFunctions", "qFunctions.csproj", "{CB5ADC49-AEA9-B1FD-809C-5644E16B359A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "qFunctions.Editor", "qFunctions.Editor.csproj", "{ED631171-8347-5491-98AC-FDC709708DEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB5ADC49-AEA9-B1FD-809C-5644E16B359A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB5ADC49-AEA9-B1FD-809C-5644E16B359A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB5ADC49-AEA9-B1FD-809C-5644E16B359A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB5ADC49-AEA9-B1FD-809C-5644E16B359A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED631171-8347-5491-98AC-FDC709708DEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED631171-8347-5491-98AC-FDC709708DEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED631171-8347-5491-98AC-FDC709708DEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED631171-8347-5491-98AC-FDC709708DEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

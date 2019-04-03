@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitString", "DigitString.csproj", "{75023566-CA40-A483-5CD8-E72B1A18ABC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitString.Editor", "DigitString.Editor.csproj", "{DFD4FCDA-16DC-3D50-3C3B-D049B8550E15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75023566-CA40-A483-5CD8-E72B1A18ABC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75023566-CA40-A483-5CD8-E72B1A18ABC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75023566-CA40-A483-5CD8-E72B1A18ABC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75023566-CA40-A483-5CD8-E72B1A18ABC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFD4FCDA-16DC-3D50-3C3B-D049B8550E15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFD4FCDA-16DC-3D50-3C3B-D049B8550E15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFD4FCDA-16DC-3D50-3C3B-D049B8550E15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFD4FCDA-16DC-3D50-3C3B-D049B8550E15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
